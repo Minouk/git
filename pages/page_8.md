@@ -1,10 +1,10 @@
 ## page 8
 
-| [prev](./page_7.md) |  [home](../README.md) | [next](./page_9.md) |
+| [prev](./page_7.md) |  [home](../README.md) | next |
 |---------------------|-----------------------|---------------------|
 
 ![img](../images/photo_8.jpg)
 
 
-| [prev](./page_7.md) |  [home](../README.md) | [next](./page_9.md) |
+| [prev](./page_7.md) |  [home](../README.md) | next |
 |---------------------|-----------------------|---------------------|
